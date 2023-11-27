@@ -1,5 +1,5 @@
-import { DropdownMenu } from '@/components/ui/dropdown-menu'
-import { DropdownMenuContent, DropdownMenuTrigger } from '@radix-ui/react-dropdown-menu'
+import { DropdownMenu ,DropdownMenuTrigger,DropdownMenuContent } from '@/components/ui/dropdown-menu'
+
 import React from 'react'
 import Link from 'next/link'
 
